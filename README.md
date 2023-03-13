@@ -23,7 +23,7 @@ This project is a challenge from [Frontend Mentor](https://www.frontendmentor.io
 
 <br> 
 
-### ⚡ Access the [project online](https://laisbagno.github.io/Card-Profile/)
+### ⚡ Access the [project online](https://laisbagno.github.io/Advice-Gerator-App/)
 
 ---
 ### 💎 Follow me on [linkedin](https://www.linkedin.com/in/laisbagno/)
